@@ -1,3 +1,3 @@
 # Worm
 
-![](examples/Screen Shot 2022-10-20 at 11.34.56 AM.png)
+![](examples/Screen%20Shot%202022-10-20%20at%2011.34.56%20AM.png)
